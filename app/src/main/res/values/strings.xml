@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">短视频提醒</string>
+    <string name="accessibility_description">检测连续短视频式上滑行为，仅在本机分析。</string>
+</resources>
